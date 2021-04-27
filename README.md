@@ -2,7 +2,7 @@
 - 👀 I’m interested in gis, programming, startups and life observations.
 - 🌱 I’m currently learning how to reduce my gis bill.
 - 📫 I'm @techjb in Twitter.
-- :smiley: This is my business: goolzoom.com 
+- :moneybag: This is my business: goolzoom.com 
 
 <!---
 techjb/techjb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
