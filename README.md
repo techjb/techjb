@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @techjb
+- 👋 Hi, I’m Jesús Barrio.. or @techjb
 - 👀 I’m interested in gis, programming, startups and life observations.
-- 🌱 I’m currently learning how to reduce my gis bill.
-- 📫 I'm @techjb in Twitter.
+- 🌱 I’m currently learning how to reduce my bills and increase income.
+- 📫 In twitter I'm @techjb.
 - :computer: I created [Goolzoom.com](https://www.goolzoom.com/en/)
 
 <!---
