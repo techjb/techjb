@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jesús Barrio.. or @techjb
+- 👋 Hi, I’m Jesús Barrio, a spanish developer and entrepreneur.
 - 👀 I’m interested in gis, programming, startups and life observations.
 - 🌱 I’m currently learning how to reduce my bills and increase income.
 - 📫 In twitter I'm @techjb.
